@@ -1,0 +1,1 @@
+_, err := regexp.MustCompile("[")
